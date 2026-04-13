@@ -1,6 +1,6 @@
 # Hi, I'm Nikos 👋
 
-🎓 I hold a **Master’s** in Data Analysis and Machine-Statistical Learning and a **Bachelor’s** degree in Mathematics and Applied Mathematics.
+🎓 I hold a **Master’s** degree in Data Analysis and Machine-Statistical Learning and a **Bachelor’s** degree in Mathematics and Applied Mathematics.
 
 💻 During my master’s, I gained hands-on experience with Python through projects and assignments in:
 
