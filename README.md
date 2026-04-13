@@ -23,22 +23,22 @@
 
 🧠 My master’s thesis focused on <b>drift detection</b>, exploring methods for identifying changes in data distributions over time.<br>
 
-🌐 I also have experience with web technologies, including HTML, CSS, and JavaScript.<br>
+🌐 I also have experience with web technologies, including HTML, CSS and JavaScript.<br>
 
 #### 🔬 I’m currently working on<br>
-Improving my skills in machine learning and data analysis through hands-on projects, with a focus on real-world applications, model performance, and robust statistical approaches.<br>
+Improving my skills in machine learning and data analysis through hands-on projects, with a focus on real-world applications, model performance and robust statistical approaches.<br>
 
 #### 🤝 I’m looking to collaborate on<br>
-Open-source projects related to data science, machine learning, and statistical modeling—especially those involving real-world datasets, predictive analytics, or applied research problems.<br>
+Open-source projects related to data science, deep learning and statistical modeling—especially those involving real-world datasets, predictive analytics, or applied research problems.<br>
 
 #### 🆘 I’m looking for help with<br>
-Deepening my understanding of advanced machine learning topics such as model interpretability, deployment, and scalable systems, as well as best practices for production-level code.<br>
+Deepening my understanding of advanced machine learning topics such as model interpretability, deployment and scalable systems, as well as best practices for production-level code.<br>
 
 #### 📚 I’m currently learning<br>
-Advanced topics in machine learning and data science, including model optimization, drift detection techniques, and expanding my skills in full-stack development (JavaScript, HTML, CSS).<br>
+Advanced topics in machine learning and data science, including model optimization, drift detection techniques and expanding my skills in full-stack development (JavaScript, HTML, CSS).<br>
 
 #### 💡 Ask me about<br>
-Python for data analysis, machine learning fundamentals, statistical modeling, numerical algorithms, and data-driven problem solving.<br>
+Python for data analysis, deep learning fundamentals, statistical modeling, numerical algorithms and data-driven problem solving.<br>
 
 #### ⚡ Fun fact<br>
 My academic journey bridges mathematics and applied machine learning, allowing me to combine strong theoretical foundations with practical problem-solving on real-world datasets.
